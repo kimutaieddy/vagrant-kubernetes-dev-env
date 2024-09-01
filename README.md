@@ -1,5 +1,4 @@
 # vagrant-kubernetes-dev-env
-# vagrant-kubernetes-dev-env
 
 This repository provides a Vagrant configuration to create a development environment with Debian-based virtual machines. It is specifically designed for setting up a Kubernetes cluster with one master node and two worker nodes.
 
@@ -41,5 +40,5 @@ The Vagrant configuration uses the following provisioning scripts:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/vagrant-kubernetes-dev-env.git
+   git clone https://github.com/kimutaieddy/vagrant-kubernetes-dev-env.git
    cd vagrant-kubernetes-dev-env
